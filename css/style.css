@@ -1,0 +1,98 @@
+body {
+	background-color: black;
+	overflow: hidden;
+}
+
+#header_h1 {
+	margin-left: 30%;
+
+}
+#header_p {
+	text-align: center; 
+}
+#sk {
+	display: none;
+	font-family: 'Poiret One', cursive;
+	font-size: 300%;
+	color: white;
+	position: absolute;
+	top: 57%;
+	left: 40.5%;
+}
+#enter {
+	display: none;
+	color: yellow;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 200%;
+	position: absolute;
+	top: 50%;
+	left: 44.5%;
+}
+#camicon {
+	display: none;
+	position: absolute;
+	top: 30%;
+	left: 43%;
+	height: 20%;
+}
+#camicon:hover {
+	height: 24%;
+	position: absolute;
+	left: 42%;
+	top: 26.5%;
+}
+#feather {
+	display: none;
+	position: absolute;
+	top: 14%;
+	left: 48%;
+}
+#paint {
+	display: none;
+	height: 23%;
+	position: absolute;
+	top: 18%;
+	left: 31%;
+}
+#kids {
+	display: none;
+	position: absolute;
+	top: 40%;
+	left: 5%;
+}
+#tribute {
+	display: none;
+	position: absolute;
+	top: -7%;
+	left: 65%;
+}
+#bench {
+	display: none;
+	position: absolute;
+	top: -5%;
+}
+#park {
+	display: none;
+	position: absolute;
+	top: 40%;
+	left: 65%;
+}
+#h2 {
+	display: none;
+	font-size: 700%;
+	font-family: 'Poiret One', cursive;
+	position: absolute;
+	color: #3B90AF;
+	top: 32%;
+	left: 36%;
+}
+#h1 {
+	display: none;
+	font-size: 900%;
+	font-family: 'Poiret One', cursive;
+	position: absolute;
+	color: white;
+	top: 45%;
+	left: 36%;
+}
