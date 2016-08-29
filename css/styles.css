@@ -43,7 +43,7 @@ h1,h2,h3,h4,h5,h6 {
 	opacity: 0.7;
 	position: relative;
 	left: 10px;
-	top: 100px;
+	top: 240px;
 	font-family: 'Questrial', sans-serif;
 	color: #687172;
 }
@@ -174,15 +174,26 @@ p{
 images
 *********************/
 #camera {
-	height: 40%;
+	height: 20%;
 	position: absolute;
-	top: 20%;
-	left: 10%;
+	top: 61.1%;
+	left: 41%;
 }
 #profilepic {
 	position: absolute;
 	left: 5%;
 	top: 5%;
+}
+#hpic {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+#banner {
+	height: 40%;
+	position: absolute;
+	top: -5%;
+	left: 41%;
 }
 
 
@@ -191,43 +202,116 @@ images Gallery
 *********************/
 
 #girl {
-	height: 40%;
+	height: 35%;
+	width: 7%;
 	position: absolute;
-	left: 17.2%;
-	top: 10%;
+	left: 10%;
+	top: 13%;
 }
 #post {
+	height: 35%;
+	width: 7%;
 	position: absolute;
-	left: 33.3%;
-	top: 10%;
+	left: 18%;
+	top: 13%;
 }
 #ring {
 	height: 35%;
+	width: 7%;
 	position: absolute;
-	left: 51%;
-	top: 10%;
+	left: 27%;
+	top: 13%;
 }
 #look {
-	height: 50%;
+	height: 35%;
+	width: 7%;
 	position: absolute;
-	left: 65%;
-	top: 10%;
+	left: 35%;
+	top: 13%;
 }
 #love {
-	height: 40%;
+	height: 35%;
+	width: 7%;
 	position: absolute;
-	left: 17.2%;
-	top: 51%;
+	left: 10%;
+	top: 56%;
 }
 #walkway {
+	height: 35%;
+	width: 7%;
 	position: absolute;
-	left: 33.3%;
+	left: 18%;
 	top: 56%;
 }
 #woods {
 	height: 35%;
+	width: 7%;
 	position: absolute;
-	left: 51%;
-	top: 46%;
+	left: 27%;
+	top: 56%;
 }	
+#river {
+	height: 35%;
+	width: 7%;
+	position: absolute;
+	left: 35%;
+	top: 56%;
+}
+
+#memorial {
+	height: 35%;
+	width: 7%;
+	position: absolute;
+	left: 60%;
+	top: 13%;
+}
+#names {
+	height: 35%;
+	width: 7%;
+	position: absolute;
+	left: 68%;
+	top: 13%;
+}
+#trees {
+	height: 35%;
+	width: 7%;
+	position: absolute;
+	left: 77%;
+	top: 13%;
+}
+#hearts {
+	height: 35%;
+	width: 7%;
+	position: absolute;
+	left: 85%;
+	top: 13%;
+}
+#land {
+	height: 35%;
+	width: 7%;
+	position: absolute;
+	left: 60%;
+	top: 56%;
+}
+#bigring {
+	height: 35%;
+	width: 7%;
+	position: absolute;
+	left: 68%;
+	top: 56%;
+}
+#brothers {
+	height: 35%;
+	width: 7%;
+	position: absolute;
+	left: 77%;
+	top: 56%;
+}
+#beauty {
+	height: 35%;
+	width: 7%;
+	position: absolute;
+	left: 85%;
+	top: 56%;
+}
 
